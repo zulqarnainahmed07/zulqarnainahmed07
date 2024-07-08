@@ -1,4 +1,4 @@
-![logo](https://github.com/zulqarnainkhan07/zulqarnainkhan07/blob/main/banner.jpg)
+![logo](https://github.com/zulqarnainahmed07/zulqarnainahmed07/blob/main/banner.jpg)
 <h1 align="center">Hi there👋, I'm Zulqarnain Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan </h3>
 
